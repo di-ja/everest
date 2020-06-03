@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+section article {
+    margin: 0;
+    padding: 0;
+    background: url(../assets/img/everest.jpg) center/cover no-repeat;
+    position: relative;
+    height: 100vh;
+}
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+    position: absolute;
+    color: white;
+    top: 30%;
+    right: 20%;
+}p {
+    margin: 0;
+    font-size: 1.5em;
+    position: absolute;
+    color: white;
+    top: 36%;
+    right: 20%;
+}
